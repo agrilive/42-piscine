@@ -2,6 +2,27 @@
     "files.associations": {
         "stdio.h": "c",
         "algorithm": "c",
-        "unistd.h": "c"
+        "unistd.h": "c",
+        "bitset": "c",
+        "functional": "c",
+        "iterator": "c",
+        "memory": "c",
+        "__bit_reference": "c",
+        "__functional_base": "c",
+        "__node_handle": "c",
+        "atomic": "c",
+        "chrono": "c",
+        "cstddef": "c",
+        "deque": "c",
+        "__memory": "c",
+        "filesystem": "c",
+        "limits": "c",
+        "locale": "c",
+        "optional": "c",
+        "ratio": "c",
+        "system_error": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "vector": "c"
     }
 }
